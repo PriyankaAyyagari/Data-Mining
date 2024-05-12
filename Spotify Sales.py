@@ -13,7 +13,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score, classification_report
 
 # Load the dataset
-file_path = "C:\\Users\\nidhi\\Downloads\\Data1.csv"
+file_path = "C:\\Users\\pinku\\Downloads\\Data1.csv"
 df = pd.read_csv(file_path)
 
 # Display the first few rows of the initial dataset
